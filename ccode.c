@@ -6,3 +6,4 @@ int main() {
     printf("Hello, World!\n"); // Prints "Hello, World!" to the console
     return 0; // Indicates that the program executed successfully
 }
+#mene isme aurkuch changes kiye hai to kaise add akre
